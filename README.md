@@ -35,7 +35,7 @@ master
 node
 ```
 
-Start provisionning of the cluster using the following command:
+Start provisioning of the cluster using the following command:
 
 ```
 ansible-playbook site.yaml
