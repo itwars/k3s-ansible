@@ -4,6 +4,10 @@
 > Anyway I'll write updates in order to make PM in k3s.
 > Be my guest and feel free to contribute.
 
+## My blog post about these bunch of playbooks
+
+Here is my post about [k3s and Ansible provisionning](https://www.it-wars.com/posts/cloud-native/kubernetes-avec-k3s-pour-sauver-la-planete/) (in French)
+
 ## K3s Ansible Playbook
 
 Build a Kubernetes cluster using Ansible with k3s. The goal is easily install a Kubernetes cluster on machines running:
