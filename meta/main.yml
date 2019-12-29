@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Vincent RABAH
+  description: devops
+  company: memyselfandi
+  license: Apache-2.0
+  min_ansible_version: 2.9
+  platforms:
+  - name: Debian
+    versions:
+    - all
+
+  galaxy_tags: [kubernetes,k8s,K3s]
