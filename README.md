@@ -1,6 +1,6 @@
 # Build a Kubernetes cluster using k3s via Ansible.
 
-> This repository is now part of https://github.com/rancher/k3s official repo in contrib/ansible directory.
+> This repository is now part of https://github.com/k3s-io/k3s-ansible official repo in contrib/ansible directory.
 > Anyway I'll write updates in order to make PM in k3s.
 > Be my guest and feel free to contribute.
 
